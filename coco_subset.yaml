@@ -1,0 +1,6 @@
+path: C:\Users\User\Desktop\Dlp Assignment2 (23k-0652)\dataset
+train: images/train
+val: images/val
+
+nc: 5
+names: ['car', 'airplane', 'truck', 'motorcycle', 'bus']
